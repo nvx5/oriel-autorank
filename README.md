@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   
   ## Oriel AutoRanker
 
@@ -6,7 +6,7 @@
 
   <sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>
   
-</p>
+</div>
 
 ### User Guide
 

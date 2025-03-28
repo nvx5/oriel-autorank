@@ -15,7 +15,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 2. Click **Create a new script**.
 3. Delete the default code and paste in the script from [`oriel-autoranker.js`](./oriel-autoranker.js).
 4. Click **File > Save** (or press **Ctrl+S**).
-
+5. 
 <details closed>
   <summary>Screenshot</summary>
   <div align="center">

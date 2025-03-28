@@ -17,7 +17,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 4. Click **File > Save** (or press **Ctrl+S**).
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdjcGIwejd5MGI2amQyZnhqZ3MzNXAwY241MGRyYmYxeDNnbXR3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9p9ShSYDh6iPVWoCa/giphy.gif" width="60%" style="border-radius:10px">
+  <img src="https://github.com/user-attachments/assets/42af912a-512f-4334-b9d2-347cab491610" width="60%">
 </div>
 
 ##### 🌐 3. Open Oriel & Upload CSV

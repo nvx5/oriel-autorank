@@ -17,7 +17,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 4. Click **File > Save** (or press **Ctrl+S**).
 
 <details open>
-  <summary>*Screenshot*</summary>
+  <summary>Screenshot</summary>
   <div align="center">
     <img src="https://github.com/user-attachments/assets/42af912a-512f-4334-b9d2-347cab491610" width="60%">
   </div>
@@ -30,7 +30,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 4. The script will move all items into the correct order automatically.
 
 <details open>
-  <summary>*Screenshot*</summary>
+  <summary>Screenshot</summary>
   <div align="center">
     <img src="https://github.com/user-attachments/assets/5d1829d5-66bd-414b-9e4d-c3a134e8ca1d" width="60%">
   </div>

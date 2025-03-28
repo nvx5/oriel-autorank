@@ -4,8 +4,6 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 
 <sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>
 
----
-
 ### User Guide
 
 #### 🧩 1. Install Tampermonkey on [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/).

@@ -18,13 +18,10 @@
 3. Delete the default code and paste in the script from [`oriel-autoranker.js`](./oriel-autoranker.js).
 4. Click **File > Save** (or press **Ctrl+S**).
 
-<details closed>
-  <summary>Screenshot</summary>
   <div align="center">
     <img src="https://github.com/user-attachments/assets/42af912a-512f-4334-b9d2-347cab491610" width="60%">
   </div>
-</details>
-
+  
 #### 🌐 3. Open Oriel & Upload CSV
 1. Go to your Programme Preferences ranking page on [Oriel](https://www.oriel.nhs.uk/).
 2. Upload your `.csv` file with your ranked preferences using the **file upload box** in the top-right corner.

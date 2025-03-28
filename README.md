@@ -2,8 +2,6 @@
 
 An open-source Tampermonkey userscript that ranks your Foundation Programme preferences on the Oriel platform using a simple CSV upload — no more endless drag-and-drop! Intended for UKFPO applicants.
 
-<sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>
-
 ### User Guide
 
 #### 🧩 1. Install Tampermonkey on [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/).
@@ -42,4 +40,4 @@ The CSV must contain your ranked job codes in the **first column**. To convert a
   <img src="https://github.com/user-attachments/assets/3b94d4aa-c49a-4083-89c8-4736c3d9250a" width="60%">
 </div>
 
-
+<sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>

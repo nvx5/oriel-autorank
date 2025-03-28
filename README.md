@@ -27,9 +27,8 @@
 
 #### 🌐 3. Open Oriel & Upload CSV
 1. Go to your Programme Preferences ranking page on [Oriel](https://www.oriel.nhs.uk/).
-2. You will see a 
-3. Upload your `.csv` file with your ranked preferences using the **file upload box** in the top-right corner.
-4. The script will move all items into the correct order automatically.
+2. Upload your `.csv` file with your ranked preferences using the **file upload box** in the top-right corner.
+3. The script will move all items into the correct order automatically.
 
 <details closed>
   <summary>Screenshot</summary>

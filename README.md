@@ -1,4 +1,4 @@
-### Oriel AutoRanker
+## Oriel AutoRanker
 
 An open-source Tampermonkey userscript that ranks your Foundation Programme preferences on the Oriel platform using a simple CSV upload — no more endless drag-and-drop! Intended for UKFPO applicants.
 

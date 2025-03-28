@@ -16,7 +16,9 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 3. Delete the default code and paste in the script from [`oriel-autoranker.js`](./oriel-autoranker.js).
 4. Click **File > Save** (or press **Ctrl+S**).
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdjcGIwejd5MGI2amQyZnhqZ3MzNXAwY241MGRyYmYxeDNnbXR3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9p9ShSYDh6iPVWoCa/giphy.gif" height="400">
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdjcGIwejd5MGI2amQyZnhqZ3MzNXAwY241MGRyYmYxeDNnbXR3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9p9ShSYDh6iPVWoCa/giphy.gif" width="60%" style="border-radius:10px">
+</div>
 
 ##### 🌐 3. Open Oriel & Upload CSV
 1. Go to your Programme Preferences ranking page on [Oriel](https://www.oriel.nhs.uk/).
@@ -24,7 +26,9 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 3. Upload your `.csv` file with your ranked preferences using the **file upload box** in the top-right corner.
 4. The script will move all items into the correct order automatically.
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVodWhkNms4bGJpNjBxd2g2NmFtYnJod3B2dmhsODFqZmc0ZmVoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/POtrauCWdKq36twSpY/giphy.gif" height="400">
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVodWhkNms4bGJpNjBxd2g2NmFtYnJod3B2dmhsODFqZmc0ZmVoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/POtrauCWdKq36twSpY/giphy.gif" width="60%" style="border-radius:10px">
+</div>
 
 #### CSV Format
 

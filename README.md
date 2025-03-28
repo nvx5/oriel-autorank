@@ -40,4 +40,6 @@ The CSV must contain your ranked job codes in the **first column**. To convert a
   <img src="https://github.com/user-attachments/assets/3b94d4aa-c49a-4083-89c8-4736c3d9250a" width="60%">
 </div>
 
-<sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>
+<p align=center>
+  <sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>
+</p>p

@@ -16,7 +16,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 3. Delete the default code and paste in the script from [`oriel-autoranker.js`](./oriel-autoranker.js).
 4. Click **File > Save** (or press **Ctrl+S**).
 
-![add-script](https://github.com/user-attachments/assets/89ad5ce7-4dd0-4133-9c80-13c126e63cee)
+![add-script](https://github.com/user-attachments/assets/89ad5ce7-4dd0-4133-9c80-13c126e63cee | width=100)
 
 ##### 🌐 3. Open Oriel & Upload CSV
 1. Go to your Programme Preferences ranking page on [Oriel](https://www.oriel.nhs.uk/).
@@ -24,7 +24,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 3. Upload your `.csv` file with your ranked preferences using the **file upload box** in the top-right corner.
 4. The script will move all items into the correct order automatically.
 
-![upload-csv](https://github.com/user-attachments/assets/87bae369-5f0c-4f45-8144-a2daa92276cf)
+![upload-csv](https://github.com/user-attachments/assets/87bae369-5f0c-4f45-8144-a2daa92276cf | width=100)
 
 #### CSV Format
 

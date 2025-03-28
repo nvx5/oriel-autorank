@@ -8,7 +8,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
 
 ### User Guide
 
-#### 🧩 1. Install Tampermonkey on [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)/[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/).
+#### 🧩 1. Install Tampermonkey on [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/).
 
 #### 📝 2. Add the Script.
 1. Click the **Tampermonkey icon** in your browser.

@@ -46,32 +46,38 @@
   }
 
   // --- Ranking Logic ---
-  function rankItems(codes) {
-    const rankedList = document.querySelector('#PreferenceList');
-    const unrankedList = document.querySelector('#NoPreferenceList');
-    const allUnrankedItems = Array.from(unrankedList.querySelectorAll('li.ui-sortable-handle'));
+    function rankItems(codes) {
+        const rankedList = document.querySelector('#PreferenceList');
+        const unrankedList = document.querySelector('#NoPreferenceList');
+        const allUnrankedItems = Array.from(unrankedList.querySelectorAll('li.ui-sortable-handle'));
 
-    let movedCount = 0;
+        let movedCount = 0;
 
-    codes.forEach(code => {
-      const matchedItem = allUnrankedItems.find(li => {
-        const liCode = li.innerText.trim().split(':')[0];
-        return liCode === code;
-      });
+        codes.forEach((code, index) => {
+            const matchedItem = allUnrankedItems.find(li => {
+                const liCode = li.innerText.trim().split(':')[0];
+                return liCode === code;
+            });
 
-      if (matchedItem) {
-        rankedList.appendChild(matchedItem);
-        movedCount++;
-      } else {
-        console.warn(`No match found for: ${code}`);
-      }
-    });
+            if (matchedItem) {
+                rankedList.appendChild(matchedItem);
+                movedCount++;
+            } else {
+                console.warn(`No match found for: ${code}`);
+            }
+        });
 
-    // --- Let SortableJS know the list changed ---
-    if (typeof Sortable !== 'undefined') {
-      Sortable.utils && Sortable.utils._dispatchEvent && Sortable.utils._dispatchEvent(rankedList, "sortupdate", {});
+        // ✅ Update internal data model after all movements
+        if (typeof window.PreferenceUpdateLists === 'function') {
+            console.log("Calling PreferenceUpdateLists()...");
+            window.PreferenceUpdateLists();
+        } else {
+            console.warn("PreferenceUpdateLists() not found.");
+        }
+
+        alert(`Moved ${movedCount} items into ranked list. Internal state should now be synced. Click Save to confirm.`);
     }
 
-    alert(`Moved ${movedCount} items into ranked list.`);
-  }
+
+
 })();

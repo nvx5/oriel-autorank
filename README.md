@@ -1,6 +1,12 @@
-## Oriel AutoRanker
+<p align="center">
+  
+  ## Oriel AutoRanker
 
-An open-source Tampermonkey userscript that ranks your Foundation Programme preferences on the Oriel platform using a simple CSV upload — no more endless drag-and-drop! Intended for UKFPO applicants.
+  An open-source Tampermonkey userscript that ranks your Foundation Programme preferences on the Oriel platform using a simple CSV upload — no more endless drag-and-drop! Intended for UKFPO applicants.
+
+  <sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>
+  
+</p>
 
 ### User Guide
 
@@ -41,6 +47,4 @@ The CSV must contain your ranked job codes in the **first column**. To convert a
 </div>
 
 <br/>
-<p align="center">
-  <sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>
-</p>
+

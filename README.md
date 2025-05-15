@@ -41,3 +41,11 @@ The CSV must contain your ranked job codes in the **first column**. To convert a
 
 <br/>
 
+### 🤝 Contributing
+
+This is a finished project. Contributions, issues, and feature requests are welcome.
+
+###📄 License
+
+This project is open-source. Feel free to do anything with it.
+

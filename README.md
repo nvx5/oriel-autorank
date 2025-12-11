@@ -47,5 +47,5 @@ This is a finished project. Contributions, issues, and feature requests are welc
 
 ### 📄 License
 
-This project is open-source. Feel free to do anything with it.
+This project is open-source. Feel free to do anything with it. Best of luck getting your preferred programmes. Foundation years are a big adjustment but you'll smash it! Keep asking questions for your own learning and try not to get swept into the mindless admin trap!
 

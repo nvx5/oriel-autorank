@@ -1,10 +1,6 @@
 <div align="center">
-  
-  ## Oriel AutoRanker
 
-  An open-source Tampermonkey userscript that ranks your Foundation Programme preferences on the Oriel platform using a simple CSV upload — no more endless drag-and-drop! Intended for UKFPO applicants.
-
-  <sup>This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion.</sup>
+<img width="1640" height="300" alt="New Project(23)" src="https://github.com/user-attachments/assets/da161530-c750-4d2b-b791-8c0f9cd19c43" />
   
 </div>
 
@@ -47,5 +43,5 @@ This is a finished project. Contributions, issues, and feature requests are welc
 
 ### 📄 License
 
-This project is open-source. Feel free to do anything with it. Best of luck getting your preferred programmes. Foundation years are a big adjustment but you'll smash it! Keep asking questions for your own learning and try not to get swept into the mindless admin!
+This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion. This project is open-source. Feel free to do anything with it. Best of luck getting your preferred programmes. Foundation years are a big adjustment but you'll smash it! Keep asking questions for your own learning and try not to get swept into the mindless admin!
 

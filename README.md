@@ -1,7 +1,7 @@
 <div align="center">
 
-<img width="1640" height="300" alt="New Project(23)" src="https://github.com/user-attachments/assets/da161530-c750-4d2b-b791-8c0f9cd19c43" />
-  
+<img width="1640" height="300" alt="New Project(24)" src="https://github.com/user-attachments/assets/0ec73295-3e40-4996-8376-6acaca79938b" />
+
 </div>
 
 ### User Guide

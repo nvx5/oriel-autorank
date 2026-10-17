@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1640" height="300" alt="github banner" src="https://github.com/user-attachments/assets/280a7b26-093f-4293-a0d0-220d1616d55b" />
+<img width="1536" height="1024" alt="Neon Reddit AutoRanker Showcase" src="https://github.com/user-attachments/assets/87ee4f28-a624-4426-b675-6e57be9f8c09" />
 </div>
 
-### ⮻ Project
+### Project
 
 An open-source Tampermonkey userscript that ranks your Foundation Programme preferences on the Oriel platform using a simple CSV upload — no more endless drag-and-drop! Intended for UKFPO applicants.
 
-### ♛ User Guide
+### User Guide
 
 #### 1. Install Tampermonkey on [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/).
 
@@ -29,7 +29,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
     <img src="https://github.com/user-attachments/assets/5d1829d5-66bd-414b-9e4d-c3a134e8ca1d" width="60%">
   </div>
 
-### ⌘ CSV Format
+### CSV Format
 
 The CSV must contain your ranked job codes in the **first column**. To convert an Excel file to a comma-separated value file, open the Excel file and click **File > Save As** and change **.xlsx** to **.csv**.
 
@@ -39,11 +39,9 @@ The CSV must contain your ranked job codes in the **first column**. To convert a
 
 <br/>
 
-### 🞺 Contributing
+### Contributing & License
 
-This is a finished project. Contributions, issues, and feature requests are welcome.
+This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion. This is a finished open-source project. Feel free to do anything with it. Contributions, issues, and feature requests are welcome.
 
-### ⛊ License
-
-This tool is not affiliated with Oriel or the UK Foundation Programme Office. Use at your own discretion. This project is open-source. Feel free to do anything with it. Best of luck getting your preferred programmes. Foundation years are a big adjustment but you'll smash it! Keep asking questions for your own learning and try not to get swept into the mindless admin!
+Best of luck getting your preferred programmes. Foundation years are a big adjustment but you'll smash it! Keep asking questions for your own learning and try not to get swept into the mindless admin!
 

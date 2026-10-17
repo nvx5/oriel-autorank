@@ -1,5 +1,12 @@
 <div align="center">
-<img width="1536" height="1024" alt="Neon Reddit AutoRanker Showcase" src="https://github.com/user-attachments/assets/87ee4f28-a624-4426-b675-6e57be9f8c09" />
+  <a href="https://www.reddit.com/r/medicalschooluk/comments/1jlxwcu/created_an_oriel_autoranker/">
+    <img
+      width="1536"
+      height="1024"
+      alt="Neon Reddit AutoRanker Showcase"
+      src="https://github.com/user-attachments/assets/87ee4f28-a624-4426-b675-6e57be9f8c09"
+    />
+  </a>
 </div>
 
 ### Project

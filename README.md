@@ -29,7 +29,7 @@ An open-source Tampermonkey userscript that ranks your Foundation Programme pref
     <img src="https://github.com/user-attachments/assets/5d1829d5-66bd-414b-9e4d-c3a134e8ca1d" width="60%">
   </div>
 
-#### ⌘ CSV Format
+### ⌘ CSV Format
 
 The CSV must contain your ranked job codes in the **first column**. To convert an Excel file to a comma-separated value file, open the Excel file and click **File > Save As** and change **.xlsx** to **.csv**.
 
